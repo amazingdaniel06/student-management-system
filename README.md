@@ -1,11 +1,11 @@
-#Student Management System
+##Student Management System
 
 ## Overview
 
 A Python-based Command Line Interface (CLI) application for managing student records. The system allows users to add, view, update, and delete student information while storing data persistently in a JSON file.
 This project was built to practice backend development fundamentals such as data persistence, CRUD operations, modular programming, error handling, and version control with Git and GitHub.
 
- Features
+##Features
 * Add new students and scores
 * View all student records
 * Update existing student scores
@@ -15,7 +15,7 @@ This project was built to practice backend development fundamentals such as data
 * Persistent data storage using JSON
 * Input validation and error handling
 
-Project Structure
+##Project Structure
 ```text
 student_app/
 │
@@ -28,30 +28,35 @@ student_app/
 
 ---
 
-Technologies Used
+##Technologies Used
+
 * Python 3
 * JSON
 * Git
 * GitHub
 
-Installation
+##Installation
+
 Clone the Repository
 
 ```bash
 git clone https://github.com/amazingdaniel06/student-management-system.git
 ```
 
-Navigate to the Project Folder
+##Navigate to the Project Folder
+
 ```bash
 cd student-management-system
 ```
 
-Run the Application
+##Run the Application
+
 ```bash
 python main.py
 ```
 
-Usage
+##Usage
+
 When the application starts, you will see the following menu:
 ```text
 1. Add Student
@@ -63,7 +68,7 @@ When the application starts, you will see the following menu:
 7. Exit
 ```
 
-Select an option and follow the prompts.
+##Select an option and follow the prompts.
 
 ---
 
@@ -84,7 +89,10 @@ Choose an option: 2
 Daniel: 85
 Ama: 78
 ```
-Skills Demonstrated
+
+
+##Skills Demonstrated
+
 * Python programming
 * Functions and modular design
 * Dictionary data structures
@@ -94,7 +102,10 @@ Skills Demonstrated
 * CRUD operations
 * Git and GitHub workflow
 
-Future Improvements
+
+
+##Future Improvements
+
 * Search for a student by name
 * Export records to CSV
 * Student ranking system
@@ -104,7 +115,8 @@ Future Improvements
 * User authentication and authorization
 
 
+##Author
 
-Author
 Daniel Arku
+
 GitHub: https://github.com/amazingdaniel06
