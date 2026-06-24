@@ -1,6 +1,7 @@
-#Student Management System#
+#Student Management System
 
-Overview
+## Overview
+
 A Python-based Command Line Interface (CLI) application for managing student records. The system allows users to add, view, update, and delete student information while storing data persistently in a JSON file.
 This project was built to practice backend development fundamentals such as data persistence, CRUD operations, modular programming, error handling, and version control with Git and GitHub.
 
